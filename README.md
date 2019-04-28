@@ -1,6 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's an exercise in combining a NodeJS Back End with a ReactJS Front End.
 
-## Available Scripts
+Steps taken :
+### `npx create-react-app react-guestbook`
+### `cd react-guestbook`
+
+update create-react-app version
+### `yarn upgrade --latest yarn-scripts`
+
+creazione di un progetto in GitHub
+
+
+## Available Scripts coming from `create-react-app`
 
 In the project directory, you can run:
 
