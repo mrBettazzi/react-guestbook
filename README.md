@@ -2,11 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 It's an exercise in combining a NodeJS Back End with a ReactJS Front End.
 
 Steps taken :
-### `npx create-react-app react-guestbook`
-### `cd react-guestbook`
+   `npx create-react-app react-guestbook`
+   `cd react-guestbook`
 
-update create-react-app version
-### `yarn upgrade --latest yarn-scripts`
+update version of create-react-app ecosystem :
+    `yarn upgrade --latest yarn-scripts`
 
 creazione di un progetto in GitHub
 
