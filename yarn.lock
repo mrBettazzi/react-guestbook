@@ -393,15 +393,7 @@
     "@babel/traverse" "^7.28.6"
     "@babel/types" "^7.28.6"
 
-"@babel/helpers@^7.14.5":
-  version "7.14.5"
-  resolved "https://registry.npmjs.org/@babel/helpers/-/helpers-7.14.5.tgz"
-  dependencies:
-    "@babel/template" "^7.14.5"
-    "@babel/traverse" "^7.14.5"
-    "@babel/types" "^7.14.5"
-
-"@babel/helpers@^7.28.6":
+"@babel/helpers@^7.14.5", "@babel/helpers@^7.28.6":
   version "7.28.6"
   resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.28.6.tgz#fca903a313ae675617936e8998b814c415cbf5d7"
   dependencies:
